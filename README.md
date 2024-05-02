@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leizo aka Andy.
 - 👀 I’m an AI enthusiast 
-- 🌱 I’m currently learning to build AI-powered apps.
-- 💞️ I’m looking to collaborate with talented minds out there. 
-- 📫 You can reach me at: bixoryai@gmail.com
+- 🌱 Currently learning to build AI-powered apps.
+- 💞️ Look forward to collaborating with talented minds out there. 
+- 📫 You can reach me at: develop@bixory.ai
 
 <!---
 Andybeyond/Andybeyond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
